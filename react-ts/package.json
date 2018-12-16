@@ -1,0 +1,21 @@
+{
+  "name": "@learnwy/react-ts",
+  "version": "0.1.0",
+  "description": "react learn wy",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "learn",
+    "wy"
+  ],
+  "author": "WangYang <learnwy@gmail.com> (https://learnwy.com/)",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-plugin-react": "^7.11.1",
+    "typescript": "^3.2.2"
+  }
+}
